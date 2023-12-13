@@ -20,11 +20,13 @@ header h1 {
     font-size: 48px;
 }
 
-.header h1 .seo {
+/* this CSS will change the letters within the span with class = "seo" */
+header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+/* header div now nav. this CSS pushes the nav section to right alignment */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +34,13 @@ header div {
     font-size: 20px;
 }
 
+/* this item is now header nav. The CSS will remove any bullet points for the ul. */
 header div ul {
     list-style-type: none;
 }
 
-header div ul li {
+/* changed div to nav here. this CSS still makes the ul an inline block */
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
