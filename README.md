@@ -2,7 +2,9 @@
 
 ## Description
 
+This project was conceived with the intention of creating a web marketing help website. It's primary function is to provide services to web marketers in an attempt to increase sales. The tools available through this website include search engine optimization(SEO), online reputation management, and social media marketing. The primary benefits of this service are lead generation, brand awareness, and cost management.
 
+In a world with countless individuals and organizations utilizing the internet for their businesses, this site hopes to give their clients the edge they need to overcome the competition and achieve success.
 
 ## Installation
 
