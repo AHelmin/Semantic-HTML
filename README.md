@@ -12,11 +12,11 @@ Installation is not required. The webpage is accessible from any web browser app
 
 ## Usage
 
-
+To use this service simply navigate to the website and begin exploring what the company has to offer your online business.
 
 ## Credits
 
-N/A
+Thanks goes to the University of Minnesota and Edx Bootcamp for providing the starter code for this project.
 
 ## License
 
